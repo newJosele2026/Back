@@ -44,9 +44,7 @@ __screenshots__/
 .DS_Store
 Thumbs.db
 
-#quitar en futuro
+#no se sube configuración local sts
 .metadata
 .sonarlint
-/5.4.0 workspace
-/5.0.1 workspace
-/4.32.2 workspace
+Respaldo plugin
