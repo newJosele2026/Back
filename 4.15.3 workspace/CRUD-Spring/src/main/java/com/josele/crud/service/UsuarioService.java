@@ -14,6 +14,10 @@ public class UsuarioService {
 
 	private final UsuarioRepository repository;
 
+	public UsuarioService() {
+		this.repository = null;
+	}
+
 	@Autowired
 	public UsuarioService(UsuarioRepository repository) {
 		this.repository = repository;
